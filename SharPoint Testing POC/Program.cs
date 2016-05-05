@@ -10,13 +10,13 @@ namespace SharPoint_Testing_POC
 {
     class Program
     {
-        //documentListName - is the Share Point site where the data is kept (i.e https://intranet.claritycon.com/Sites/DefaultCollection2013/Exiger/Insight%20to%20SharePoint%20Testing/Forms/AllItems.aspx)
+        //documentListName - is the Share Point site where the data is kept 
         static string documentListName = "Insight to SharePoint Testing";
 
         //siteUrl - is the url for Share Point *NOTE: DO NOT TRY TO INPUT AN ENTIRE URL - it will crash with an error of no specific URL
-        static string siteURL = "https://intranet.claritycon.com/Sites/DefaultCollection2013/Exiger/";
+        static string siteURL = "";
 
-        //userNameFixed - is the account user name. (i.e jdave)
+        //userNameFixed - is the account user name. 
         static string userNameFixed = "";
 
         //passwordFixed - is the password for your username 
@@ -50,7 +50,7 @@ namespace SharPoint_Testing_POC
                 };
 
             //Windows Authentication
-            NetworkCredential networkCreds = new NetworkCredential(userNameFixed, passwordFixed, "clarityinternal");
+            NetworkCredential networkCreds = new NetworkCredential(userNameFixed, passwordFixed, "DOMAIN_NAME");
 
             try
             {
@@ -109,7 +109,7 @@ namespace SharPoint_Testing_POC
                 };
 
             //Windows Authentication
-            NetworkCredential networkCreds = new NetworkCredential(userNameFixed, passwordFixed, "clarityinternal");
+            NetworkCredential networkCreds = new NetworkCredential(userNameFixed, passwordFixed, "DOMAIN_NAME");
 
             try
             {
@@ -160,7 +160,7 @@ namespace SharPoint_Testing_POC
                 };
 
             //Windows Authentication
-            NetworkCredential networkCreds = new NetworkCredential(userNameFixed, passwordFixed, "clarityinternal");
+            NetworkCredential networkCreds = new NetworkCredential(userNameFixed, passwordFixed, "DOMAIN_NAME");
 
             try
             {
