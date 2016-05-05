@@ -1,0 +1,16 @@
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\SharPoint Testing POC.exe.config
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\SharPoint Testing POC.exe.config
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\SharPoint Testing POC.exe
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\SharPoint Testing POC.pdb
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\obj\Debug\SharPoint Testing POC.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\obj\Debug\SharPoint Testing POC.exe
+C:\Users\Jay\Desktop\SharPoint Testing POC\SharPoint Testing POC\obj\Debug\SharPoint Testing POC.pdb
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\obj\Debug\SharPoint Testing POC.exe
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\obj\Debug\SharPoint Testing POC.pdb
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\SharPoint Testing POC.exe
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\SharPoint Testing POC.pdb
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\jdave\Desktop\SharPoint Testing POC\SharPoint Testing POC\obj\Debug\SharPoint Testing POC.csprojResolveAssemblyReference.cache
